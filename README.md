@@ -1,7 +1,3 @@
 # AUDIT-SYSTEM-TO-DETECT-INAPPROPRIATE-TEXT-CONTENT
 
-## Introduction:
-The System aim to protect children from exposure to harmful textual material that could negatively impact them
-
-## Conclusion:
-the Audit System has the potential to make a significant contribution to a better and safer online world.
+The System's goal is to safeguard children from harmful text that may have a negative impact on them. It achieves this by training a model to differentiate words that should be hidden from children from other words. This includes identifying positive and negative words, as well as words that should be filtered out to ensure children cannot see them.
